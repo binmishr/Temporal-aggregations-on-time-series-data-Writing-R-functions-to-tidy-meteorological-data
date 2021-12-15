@@ -1,0 +1,1 @@
+# Temporal-aggregations-on-time-series-data-Writing-R-functions-to-tidy-meteorological-data
